@@ -1,0 +1,118 @@
+create the UI/UX design for a **Proof of Delivery (POD) logistics application**.
+
+I am new to UI/UX and app development, so design the interface to be **simple, clean, and easy to understand and build**. Use clear layouts, reusable components, and beginner-friendly design patterns.
+
+Project Goal:
+Design a logistics app where delivery drivers confirm deliveries and logistics admins manage shipments and view proof of delivery.
+
+Platforms:
+
+* Mobile app for Delivery Drivers
+* Web dashboard for Admin
+
+Design Style:
+
+* Simple and modern SaaS design
+* Clean layout with lots of spacing
+* Easy navigation
+* Minimal color palette
+* Beginner-friendly components
+
+Use the following color guideline:
+
+* Blue for primary actions
+* Green for delivered status
+* Orange for pending
+* Red for failed delivery
+
+Create a small design system including:
+
+* Color palette
+* Typography (simple readable fonts)
+* Buttons (primary and secondary)
+* Input fields
+* Status badges
+* Cards
+* Navigation bar
+* Icons for package, delivery, camera, map, and signature
+
+Mobile App Screens (Driver):
+
+1. Login Screen
+
+* Logo
+* Email input
+* Password input
+* Login button
+
+2. Driver Dashboard
+
+* Welcome message
+* Cards showing:
+
+  * Deliveries today
+  * Pending deliveries
+  * Completed deliveries
+
+3. Delivery List
+
+* Simple list of assigned deliveries
+* Each card shows:
+
+  * Customer name
+  * Address
+  * Package ID
+  * Status badge
+
+4. Delivery Details
+
+* Customer information
+* Delivery address
+* Contact number
+* Small map preview
+* Button for navigation
+
+5. Delivery Action Screen
+
+* Buttons for:
+
+  * Out for delivery
+  * Delivered
+  * Failed delivery
+
+6. Proof of Delivery Screen
+
+* Signature capture area
+* Upload photo button
+* Delivery notes input
+* Confirm delivery button
+
+7. Delivery Confirmation Screen
+
+* Success message
+* Delivery time
+* Map showing delivery location
+
+Admin Web Dashboard Screens:
+
+1. Admin Login
+2. Dashboard overview with delivery statistics
+3. Shipments table with search and filters
+4. Driver management page
+5. Proof of Delivery viewer showing:
+
+   * Delivery photo
+   * Signature
+   * GPS location map
+   * Timestamp
+
+Design Instructions:
+
+* Use auto-layout
+* Use reusable components
+* Organize frames clearly
+* Label components so a beginner developer can understand them
+* Keep the UI simple and not overly complex
+
+Output:
+Create organized Figma frames and components that a beginner developer can easily convert into a mobile app and web dashboard.
